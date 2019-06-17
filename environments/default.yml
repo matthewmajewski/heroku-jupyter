@@ -13,6 +13,8 @@ dependencies:
   - click
   - cryptography 
   - mako
+  - numpy
+  - scikit-learn
   - psycopg2
   - six
   - sqlalchemy
